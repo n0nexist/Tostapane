@@ -26,7 +26,7 @@ Usage: {sys.argv[0]} (wireless interface) (access point's MAC/ALL) (victim's mac
 - if no access point's MAC is supplied, the program will automatically attack every access point it can reach
 - if no victim's MAC is supplied, the program will automatically attack every victim connected to the selected access point.
 - if no deauthentication code is supplied, the program will deauthenticate the victims with code 7
-- to see a table of deauthentication codes, please visit -> https://www.cisco.com/assets/sol/sb/WAP371_Emulators/WAP371_Emulator_v1-0-1-5/help/Apx_ReasonCodes2.html
+- to see a table of deauthentication codes, please visit -> https://github.com/n0nexist/Tostapane/
 - the default deauth frames amount will be 100 if the argument is not supplied
 - the default deauth frames delay will be 0.1 if the argument is not supplied
     """)

@@ -9,7 +9,7 @@ Wi-Fi deauthenticator written in python3
 </ul>
 
 # Deauthentication codes
-<ol>
+<ol start="0">
     <li>Reserved.</li>
     <li>Unspecified reason.</li>
     <li>Previous authentication no longer valid.</li>
